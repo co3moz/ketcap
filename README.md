@@ -5,6 +5,13 @@ Ketcap
 
 Simplest application backbone creator, boilerplate  archive, small, easy to use.
 
+Install
+----------------
+
+type me pls;
+
+	npm install -g ketcap
+
 Usage
 --------------
 
