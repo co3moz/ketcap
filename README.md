@@ -1,4 +1,4 @@
-![Ketcap](docs/ketcap.png)
+![Ketcap](https://raw.githubusercontent.com/co3moz/ketcap/master/docs/ketcap.png)
 
 Ketcap
 ===================
@@ -19,7 +19,7 @@ Usage
 
 Gets all boilerplate names from mayonez system. Here you can look it https://github.com/co3moz/ketcap-mayonez. 
 
-![Ketcap](docs/ketcapList.png)
+![Ketcap](https://raw.githubusercontent.com/co3moz/ketcap/master/docs/ketcapList.png)
 
 
 > **Developer Note** If you want to add more boilerplate, please clone and create pull request. Thank you :*
@@ -31,7 +31,7 @@ How about to install some boilerplate? type this sir,
 Now ketcap downloads the content, when it's done ketcap asks questions about your application like name description etc..
 Answer them please, when you done then ketcap will start to create files like lightning.
 
-![Ketcap](docs/ketcapInstall.png)
+![Ketcap](https://raw.githubusercontent.com/co3moz/ketcap/master/docs/ketcapInstall.png)
 
 
 Mayonez Files
