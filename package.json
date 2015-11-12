@@ -1,0 +1,29 @@
+{
+  "name": "ketcap",
+  "version": "1.0.0",
+  "description": "General boilerplate creator",
+  "main": "src/ketcap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "generator",
+    "create",
+    "easy",
+    "ezapp",
+    "application"
+  ],
+  "bin": {
+    "ketcap": "./bin.js"
+  },
+  "author": "co3moz",
+  "license": "MIT",
+  "dependencies": {
+    "atob": "^1.1.2",
+    "mkdirp": "^0.5.1",
+    "optimist": "^0.6.1",
+    "readline-sync": "^1.2.21",
+    "request": "^2.65.0"
+  }
+}
